@@ -75,9 +75,6 @@ function App() {
           </div>  
         ):('')}
         </main>
-        <div className='footer-cont'>
-          <footer>Copyright© Aditya(AJ)</footer>
-        </div>
        </div> 
   );
 }  
